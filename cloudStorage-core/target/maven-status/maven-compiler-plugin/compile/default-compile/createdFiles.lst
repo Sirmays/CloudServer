@@ -1,0 +1,15 @@
+domaine\abstarctCommandImpl\DeleteRequest.class
+domaine\abstarctCommandImpl\ListResponse.class
+domaine\AbstractCommand.class
+domaine\abstarctCommandImpl\RegistrationRequest.class
+domaine\abstarctCommandImpl\PathUpRequest.class
+domaine\abstarctCommandImpl\FileRequest.class
+domaine\abstarctCommandImpl\ListRequest.class
+domaine\abstarctCommandImpl\AuthenticationResponse.class
+domaine\abstarctCommandImpl\PathUpResponse.class
+domaine\abstarctCommandImpl\SimpleMessage.class
+domaine\abstarctCommandImpl\CommandType.class
+domaine\abstarctCommandImpl\AuthorizationRequest.class
+domaine\abstarctCommandImpl\FileMessage.class
+domaine\abstarctCommandImpl\PathInRequest.class
+domaine\User.class
