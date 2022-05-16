@@ -1,0 +1,11 @@
+controller\CloudApp.class
+animations\Shake.class
+controller\CloudStorage.class
+service\impl\NetworkServiceImpl.class
+factory\Factory.class
+service\impl\NetworkSettingImpl.class
+service\NetWorkService.class
+controller\Authorization.class
+controller\CreateNewAccount.class
+controller\CloudStorage$1.class
+controller\Authorization$1.class
